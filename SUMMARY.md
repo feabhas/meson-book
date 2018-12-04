@@ -5,6 +5,9 @@
 * [Hello World](hello-world.md)
 * [Flat Multi-file](flat-multi-file.md)
 * [Basic Path Setup](untitled.md)
+* [Library dependencies](library-dependencies.md)
+* [Compiler Arguments](compiler-arguments.md)
+* [meson\_exe\_wrapper.sh](meson_exe_wrapper.sh.md)
 
 ## Install
 
